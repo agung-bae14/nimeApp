@@ -2,8 +2,10 @@
 
 A new Flutter project.
 
-![App](assets/1.png) ![App2](assets/2.png)
-
+<p align="start">
+  <img src="assets/2.png" width="20%" alt="App">
+  <img src="assets/3.png" width="20%" alt="App2">
+</p>
 
 ## Getting Started
 
